@@ -1,4 +1,4 @@
-# REcriando Página inicial do NETFLIX :clapper:
+# Recriando Página inicial do NETFLIX :clapper:
 
 - HTML
 
